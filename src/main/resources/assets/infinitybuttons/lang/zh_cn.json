@@ -19,8 +19,8 @@
   "block.infinitybuttons.sticky_weathered_copper_large_button": "涂蜡锈蚀的铜质大按钮",
   "block.infinitybuttons.sticky_oxidized_copper_large_button": "涂蜡氧化的铜质大按钮",
   "block.infinitybuttons.emerald_large_button": "绿宝石大按钮",
-  "block.infinitybuttons.iron_large_button": "Iron Large Button",
-  "block.infinitybuttons.gold_large_button": "Gold Large Button",
+  "block.infinitybuttons.iron_large_button": "铁大按钮",
+  "block.infinitybuttons.gold_large_button": "金大按钮",
 
   "block.infinitybuttons.copper_button": "铜质按钮",
   "block.infinitybuttons.exposed_copper_button": "斑驳的铜质按钮",
@@ -31,8 +31,8 @@
   "block.infinitybuttons.sticky_weathered_copper_button": "涂蜡锈蚀的铜质按钮",
   "block.infinitybuttons.sticky_oxidized_copper_button": "涂蜡氧化的铜质按钮",
   "block.infinitybuttons.emerald_button": "绿宝石按钮",
-  "block.infinitybuttons.iron_button": "Iron Button",
-  "block.infinitybuttons.gold_button": "Gold Button",
+  "block.infinitybuttons.iron_button": "铁按钮",
+  "block.infinitybuttons.gold_button": "金按钮",
 
   "block.infinitybuttons.red_emergency_button": "红色紧急按钮",
   "block.infinitybuttons.orange_emergency_button": "橙色紧急按钮",
@@ -53,10 +53,10 @@
 
   "infinitybuttons.alarm": "警铃大作",
 
-  "infinitybuttons.tooltip.hold_shift": "[Hold Shift]",
-  "infinitybuttons.tooltip.sticky_copper_button": "This button acts like a lever",
-  "infinitybuttons.tooltip.emerald_button": "This button stays pressed randomly between 0.5 and 5 seconds",
-  "infinitybuttons.tooltip.arrow_button": "This button can only be pressed with an arrow",
+  "infinitybuttons.tooltip.hold_shift": "[按住Shift键]",
+  "infinitybuttons.tooltip.sticky_copper_button": "这个按钮的作用类似拉杆",
+  "infinitybuttons.tooltip.emerald_button": "这个按钮在按下后会在0.5-5秒间随机弹起",
+  "infinitybuttons.tooltip.arrow_button": "这个按钮只能用弓箭按下",
 
   "itemGroup.infinitybuttons.infinitybuttons": "无限按钮",
 
